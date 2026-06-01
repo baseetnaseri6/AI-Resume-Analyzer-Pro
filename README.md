@@ -1,4 +1,4 @@
-# AI Resume Analyzer Pro 
+# AI Resume Analyzer Pro
 Modern AI-powered Resume Analysis Platform built with:
 - FastAPI
 - Python
