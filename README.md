@@ -301,6 +301,6 @@ https://github.com/baseetnaseri6
 
 ⸻
 
-License 📜
+License 
 
 MIT License 
