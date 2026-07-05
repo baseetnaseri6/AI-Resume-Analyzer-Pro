@@ -283,7 +283,7 @@ Skills Demonstrated
 
 Author 
 
-Mohamad Baseet Naseri
+Mohammad Baseet Naseri
 
 * Data Scientist
 * AI Engineer
