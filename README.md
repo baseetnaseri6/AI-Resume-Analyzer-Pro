@@ -5,7 +5,7 @@ Modern AI-powered Resume Analysis Platform built with:
 - HTML
 - CSS
 - JavaScript
-- Bootstrap 5
+- Bootstrap 5 
 - Ollama Local AI
 - ApexCharts
 - SQLite Database
